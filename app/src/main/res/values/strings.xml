@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="top_news">Top News</string>
+    <string name="popular_news">Popular News</string>
+    <string name="news">news</string>
+    <string name="search_news">Search News</string>
+</resources>
